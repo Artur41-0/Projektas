@@ -1,0 +1,15 @@
+1;Inception;Sci-Fi;2010;8.8
+2;Titanic;Drama;1997;7.9
+3;Avatar;Sci-Fi;2009;7.8
+4;Gladiator;Action;2000;8.5
+5;The Dark Knight;Action;2008;9.0
+6;Joker;Drama;2019;8.4
+7;Interstellar;Sci-Fi;2014;8.7
+8;Shrek;Animation;2001;7.8
+9;Frozen;Animation;2013;7.4
+10;The Matrix;Sci-Fi;1999;8.7
+11;Toy Story;Animation;1995;8.3
+12;Oppenheimer;Drama;2023;8.5
+13;Deadpool;Action;2016;8.0
+14;Avengers Endgame;Action;2019;8.4
+15;Top Gun Maverick;Action;2022;8.3
